@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-DZ_1 (webstudio_HTML)
+DZ_1 webstudio (HTML)
